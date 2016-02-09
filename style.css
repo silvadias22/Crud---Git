@@ -1,0 +1,206 @@
+
+	.diva{
+		width: 956px;
+		border: 1px solid gray;	
+		margin-left:auto;
+		margin-right:auto;
+		display: table;
+		background-color: #FCFCFC;
+	
+	}
+	
+	.cabecalho{
+		width:956px;
+		background-color: #FCFCFC;
+		border-bottom: 1px solid gray;
+		padding-left: 58px;
+		padding-right: 80px;
+		float:left;
+
+	}
+	
+
+	.menu ul {
+		  list-style-type:none;
+		  padding: 13px 15px 13px 15px;
+		  margin: auto auto auto auto;
+
+		}
+
+	.menu{
+		
+		font-size: 17px;		
+		font-family: Thorndale AMT;
+		width:240px;
+	    background-color: #FCFCFC;
+		float:left;
+		display:block;
+
+	}
+	.menu ul li:hover > a {
+  	
+		color: #228B22;
+		font-size: 18px;		
+		font-family: Palatino Linotype;
+		border: 1px solid #228B22; 
+		border-radius: 8px;
+
+		
+	}
+			
+
+	.menu ul a,
+	.menu ul a:link,
+	.menu ul a:visited {
+	  display: block;
+	  color: #4169E1;
+	  text-decoration: none;
+	  padding: 2px 5px 5px 40px;
+	}
+		
+
+	.conteudo{
+
+		width:852px;
+		border: 0px solid gray;
+		border-left: 1px solid gray;
+		display:block;
+		float:left;
+		background-color: #FCFCFC;
+	}	
+	
+	.com-margin {
+
+		margin:20px;
+		display: block;
+	}
+	
+	label{
+		font-family: Palatino Linotype;
+
+		
+	}
+	
+	body {
+		color: #2F4F4F;
+	}
+
+	input{				
+
+		font-family: Palatino Linotype;
+		padding-top: 5px;
+		padding-bottom: 4px;
+		padding-left: 3px;
+		padding-right: 15px;
+		border-radius: 7px;			
+		border: 1px solid #7A89A1;		
+	}		
+	
+	input[type="submit"]{
+		color: 	#006400;
+		margin-top: 20px;
+		padding-top: 8px;
+		padding-right: 19px;
+		padding-bottom: 8px;
+		padding-left:19px;
+		font-family: Verdana;
+		border: 1px solid #006400;
+		border-radius: 7px;
+		background-color: #FCFCFC;
+		font-size: 15px;
+		 
+
+	}
+	
+	a:hover { 
+        color: #34642E; 
+	}
+	
+
+	input[type="submit"]:hover { 
+		
+		border: 1px solid;
+        color: #00008B; 
+		cursor: pointer;		
+		font-family: Verdana;
+		font-size: 15px;
+	}
+	
+
+	
+	label{
+		margin: 2px;
+		font-family: Thorndale AMT;	
+		display: block;
+		margin-top: 20px;
+	}
+	
+	.Titulo{
+		font-family: Palatino Linotype;
+		color: Black;
+		margin-left: 94%;
+		margin-right: auto;
+		margin-top: 5%;
+		margin-bottom:5%;
+		
+	}
+	
+	
+	textarea{
+		display: block;
+		width: 470px;
+		border-radius: 9px;
+		border:1px solid #7A89A1;
+				
+	}
+	
+	.reForm{
+		display:block;
+		margin: auto auto auto auto;
+		
+	}
+	
+	select{
+		border-radius:5px;
+		border:1px solid #7A89A1;
+		background-color: #FFFFFF;
+		
+	}
+
+	.tabela{
+		display: block;
+		margin: auto auto auto auto;
+		
+	}
+	
+	 th, td , tr {
+	
+		font-family: freeSerif;
+		font-size: 16px;	
+		border:1px solid black;	
+
+	}
+
+
+	th{
+
+		color: #1C1C1C;	
+		background-color: #BDBDBD;
+		
+	}
+
+	td{
+	
+		color: #000011;
+		background-color: #F2F2F2;
+	}
+
+	.links{
+		
+		font-family: Verdana;
+		font-size: 15px;
+		margin: 15px auto 5px 25%;
+	
+	}
+
+
